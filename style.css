@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color: #E0FFFF;
+padding: 5px;
+
+}
+
+header img {
+height: 45px;
+width: 100px;
+}
+
+main h1 {
+    color: #0000FF;
+    font-size: 30px;
+}
+
+footer {
+    background-color:#DEB887 ;
+    padding: 15px;
+}
+
+footer p {
+    background-color: white;
+    font-size: 25px;
+}
